@@ -1,0 +1,30 @@
+Exhaustive Search - Max Stocks: 11, Combination: ([1, 2], [4, 3], [6, 7])
+Dynamic Programming - Max Stocks: 11
+
+Exhaustive Search - Max Stocks: 12, Combination: ([3, 2], [4, 3], [5, 3])
+Dynamic Programming - Max Stocks: 12
+
+Exhaustive Search - Max Stocks: 25, Combination: ([2, 1], [3, 2], [5, 3], [7, 4], [8, 5])
+Dynamic Programming - Max Stocks: 25
+
+Exhaustive Search - Max Stocks: 60, Combination: ([10, 5], [20, 10], [30, 15])
+Dynamic Programming - Max Stocks: 60
+
+Exhaustive Search - Max Stocks: 21, Combination: ([1, 1], [2, 2], [3, 3], [4, 4], [5, 5], [6, 6])
+Dynamic Programming - Max Stocks: 21
+
+Exhaustive Search - Max Stocks: 15, Combination: ([5, 5], [10, 10])
+Dynamic Programming - Max Stocks: 15
+
+Exhaustive Search - Max Stocks: 27, Combination: ([3, 1], [4, 2], [2, 3], [5, 4], [7, 5], [6, 7])
+Dynamic Programming - Max Stocks: 27
+
+Exhaustive Search - Max Stocks: 100, Combination: ([100, 100],)
+Dynamic Programming - Max Stocks: 100
+
+Exhaustive Search - Max Stocks: 26, Combination: ([5, 7], [6, 8], [7, 9], [8, 10])
+Dynamic Programming - Max Stocks: 26
+
+Exhaustive Search - Max Stocks: 0, Combination: ()
+Dynamic Programming - Max Stocks: 0
+
